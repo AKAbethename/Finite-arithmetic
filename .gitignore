@@ -1,0 +1,46 @@
+# Скомпилированные файлы C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Папки сборки
+build/
+cmake-build-*/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+CMakeFiles/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.cache
+
+# Система
+*.pid
+*.lock
+
+*.o
+*.out
+*.exe
+build/
+cmake-build-*/
